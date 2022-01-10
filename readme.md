@@ -1,5 +1,5 @@
 # Login Form
-[Link do projeto](https://www.hotmart.com/product/frontstart)
+[Link do projeto](https://jrmello.github.io/loginform/)
 
 ![Tela de login](https://github.com/jrmello/loginform/blob/master/assets/form-preview.png?raw=true)
 
